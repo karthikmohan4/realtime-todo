@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "269212566408",
+    "firebase_url": "https://emcus-a08cb-default-rtdb.firebaseio.com",
+    "project_id": "emcus-a08cb",
+    "storage_bucket": "emcus-a08cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269212566408:android:38f08d8c69eb3755b0b03d",
+        "android_client_info": {
+          "package_name": "com.example.emcus_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfuFuwkfem3RZsIzBM-hl9whWme1e_9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269212566408:android:cca96eb9ce3b45ccb0b03d",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfuFuwkfem3RZsIzBM-hl9whWme1e_9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
